@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="112cm" height="27cm" viewBox="81 110 2231 536" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 84 487.333 C 150.6,463.833 183.9,456 250.5,456 C 317.1,456 350.4,463.833 417,487.333 L 417,612.667 C 350.4,636.167 317.1,644 250.5,644 C 183.9,644 150.6,636.167 84,612.667 L 84,487.333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" d="M 84 487.333 C 150.6,463.833 183.9,456 250.5,456 C 317.1,456 350.4,463.833 417,487.333 L 417,612.667 C 350.4,636.167 317.1,644 250.5,644 C 183.9,644 150.6,636.167 84,612.667 L 84,487.333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" d="M 84 487.333 C 150.6,510.833 183.9,518.667 250.5,518.667 C 317.1,518.667 350.4,510.833 417,487.333"/>
+    <text font-size="27.0933" style="fill: #000000;text-anchor:middle;font-family:Liberation Mono;font-style:normal;font-weight:normal" x="250.5" y="553.813">
+      <tspan x="250.5" y="553.813">Production</tspan>
+      <tspan x="250.5" y="587.68">Databases</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="621.687" y="459" width="386.313" height="178"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="621.687" y="459" width="386.313" height="178"/>
+    <text font-size="27.0933" style="fill: #000000;text-anchor:middle;font-family:Liberation Mono;font-style:normal;font-weight:normal" x="814.844" y="502.817">
+      <tspan x="814.844" y="502.817">ETL:</tspan>
+      <tspan x="814.844" y="536.683">Extract Data</tspan>
+      <tspan x="814.844" y="570.55">Clean Data</tspan>
+      <tspan x="814.844" y="604.417">Populate sparse data</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1248" y="460" width="336.125" height="178"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="1248" y="460" width="336.125" height="178"/>
+    <text font-size="27.0933" style="fill: #000000;text-anchor:middle;font-family:Liberation Mono;font-style:normal;font-weight:normal" x="1416.06" y="520.75">
+      <tspan x="1416.06" y="520.75">Model Selection</tspan>
+      <tspan x="1416.06" y="554.617">Training</tspan>
+      <tspan x="1416.06" y="588.483">Testing</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1854" y="459" width="456.625" height="181"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="1854" y="459" width="456.625" height="181"/>
+    <text font-size="27.0933" style="fill: #000000;text-anchor:middle;font-family:Liberation Mono;font-style:normal;font-weight:normal" x="2082.31" y="521.25">
+      <tspan x="2082.31" y="521.25">Operationalize:</tspan>
+      <tspan x="2082.31" y="555.117">Deploy trained models</tspan>
+      <tspan x="2082.31" y="588.983">into production systems</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="250.5" y="550">
+    <tspan x="250.5" y="550"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="418.935" y1="549.403" x2="609.978" y2="548.726"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="617.478,548.699 607.496,553.735 609.978,548.726 607.46,543.735 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="250.5" y="550">
+    <tspan x="250.5" y="550"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="814.844" y="548">
+    <tspan x="814.844" y="548"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1416.06" y="549">
+    <tspan x="1416.06" y="549"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2082.31" y="549.5">
+    <tspan x="2082.31" y="549.5"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1009.98" y1="548.451" x2="1238.26" y2="548.978"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1245.76,548.995 1235.75,553.972 1238.26,548.978 1235.78,543.972 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1586.13" y1="549.194" x2="1844.26" y2="549.489"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1851.76,549.497 1841.76,554.486 1844.26,549.489 1841.77,544.486 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="102" y="113" width="2176" height="188"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="102" y="113" width="2176" height="188"/>
+    <text font-size="27.0933" style="fill: #000000;text-anchor:middle;font-family:Liberation Mono;font-style:normal;font-weight:normal" x="1190" y="178.75">
+      <tspan x="1190" y="178.75">Gather &amp; Define Business Requirements</tspan>
+      <tspan x="1190" y="212.617">Define success/failure criteria</tspan>
+      <tspan x="1190" y="246.483">Identify Operational metrics</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1190" y="207">
+    <tspan x="1190" y="207"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1416.06" y="549">
+    <tspan x="1416.06" y="549"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="814.844" y="548">
+    <tspan x="814.844" y="548"></tspan>
+  </text>
+</svg>
