@@ -51,11 +51,11 @@ seem to the main requirements for this role.
 
 #### Production Engineer
 
-This role calls for a generalist. Once a ML model is trained, it must
-then be deployed in order to become operational and deliver business
-benefit.
+This role calls for a generalist. Once an ML model has been trained,
+it must then be deployed in order to become operational and deliver
+business benefit.
 
-The how and why of this process can be very technical, but generally
+The how and why of this deployment can be very technical, but generally
 will involve a number of separate disciplines - mostly involving more
 traditional IT practices.
 
@@ -64,6 +64,15 @@ __least__ qualified to perform. For this reason, it is a good idea
 to source a candidate with a much broader skill-set. What these
 skills will need to be largely depends upon the pre-existing
 production systems.
+
+## Rolling Deployment
+
+Trained models degrade quickly - which means that models must be re-trained
+from time to time (as new data becomes available) and likewise re-deployed.
+
+This largely involves the data scientist and the production engineer - who
+must have knowledge of staged deployments as well as - ideally - expertise
+with CI/CD practices.
 
 ## References
 
