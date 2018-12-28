@@ -4,9 +4,15 @@ A quick description of the roles found in organizations that use ML at Scale
 
 ## Overview
 
+> ___"Moore's Law is dead."___ - Bill Dally, NVIDIA Chief Scientist
+
+The above quote was in reference to increasing hardware performance to train
+and test large datasets. But to increase the performance and scale of human
+operations, the standard approach is for increasingly specialized roles.
+
 ML is all well and good, but in a business context it must be able to deliver
 value to the business. For that reason, it makes sense to create specialist
-roles within a business ML department.
+roles within a businesses' ML department.
 
 ![ML at Scale](images/ML.svg)
 
@@ -82,10 +88,16 @@ ETL
 
 [Well worth reading for some historical insight into this process.]
 
+Moore's Law is dead
+
+    https://changelog.com/practicalai/15
+
+[A fairly interesting overview of recent work from nVidia.]
+
 ## Credits
 
 Inspired by this podcast on Behavioral economics and AI-driven decision making:
 
     http://changelog.com/practicalai/9
 
-[This is an excellent podcast, some great stuff and worth following.]
+[Practical AI is an excellent podcast, some great stuff and worth following.]
