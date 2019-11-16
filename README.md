@@ -38,11 +38,11 @@ expertise still plays a large factor in how valuable this person may be.
 
 #### Data Engineer
 
-This role is largely technical and mainly involves ETL; however, data
-cleaning and transformation plays a large part. Populating sparse data
-may also be a requirement. Database knowledge (both of traditional
-relational databases [SQL] as well as NoSQL [CQL, GraphQL] databases)
-and expertise is critical for this role.
+This role is largely technical and mainly involves [ETL](#etl); however,
+data cleaning and transformation plays a large part. Populating and/or
+enriching sparse data may also be a requirement. Database knowledge
+(both of traditional relational databases [SQL] as well as NoSQL [CQL,
+ GraphQL] databases) and expertise is critical for this role.
 
 #### Data Scientist
 
@@ -52,8 +52,8 @@ expertise and training. For this reason, it is best that they are
 provided with clean data so that they can focus their energies on
 tasks that they have been trained to do.
 
-Mathematics, statistics and generally either R or Python expertise
-seem to the main requirements for this role.
+Mathematics, statistics, probability theory and generally either
+R or Python expertise seem to be the main requirements for this role.
 
 #### Production Engineer
 
@@ -82,13 +82,21 @@ with CI/CD practices.
 
 ## References
 
-ETL
+#### ETL
 
     http://en.wikipedia.org/wiki/Extract%2C_transform%2C_load
 
 [Well worth reading for some historical insight into this process.]
 
-Moore's Law is dead
+#### Moore's Law
+
+    http://en.wikipedia.org/wiki/Moore's_law
+
+States (a little sniffily) that:
+
+> __Moore's law__ is the ___observation___
+
+### Moore's Law is dead
 
     https://changelog.com/practicalai/15
 
